@@ -1,0 +1,9 @@
+ Hello, 
+
+  I am new to git and github as of this date: December 13, 2017. I am learning at the Udacity, and my assignment is to make a new file and push to my github account. Here it goes..
+
+  Chinese-Combination Rice
+
+  Have some white rice, as you are cooking or frying, pour soy sauce on top of the rice to make it look browon. Add vegestables and cook any meats on the side. Combine everything at the end and enjoy.
+
+  Disclaimer, I am not a chef or an expert at cooking. This is only my guess and what I have heard from my Chinese friends. 
